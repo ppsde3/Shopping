@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "CAT Engine",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 719.9,
+        "image_tag": "CAT-engine.png",
+        "quantity": 2
+    },
+    {
+        "id": 2,
+        "title": "MIKANO Engine",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
+        "price": 650.9,
+        "image_tag": "diesel-engine.png",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "SEFANG Engine",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 619.9,
+        "image_tag": "sefang-engine.png",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "CAT Engine",
+        "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+        "price": 319.9,
+        "image_tag": "lawn-mower.png",
+        "quantity": 1
+    }
+]
